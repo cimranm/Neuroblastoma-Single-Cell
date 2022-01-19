@@ -8,3 +8,6 @@
 
 
 https://www.nature.com/articles/s41592-019-0631-4
+
+
+https://kieranrcampbell.github.io/r-workshop-march-2019/
