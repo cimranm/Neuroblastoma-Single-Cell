@@ -1,0 +1,1 @@
+install.packages(c("tidyverse", "here", "DT", "pheatmap", "BiocManager")) 
